@@ -1,5 +1,9 @@
 # Hi, my name is Luis Vargas 👋
 
+I am professional software engineer since 2015
+
+My passion lies in software development. I remain committed to advancing my skills through self-directed study. Eager to leverage my foundation and enthusiasm for software development in a challenging project or role.
+
 <!--
 **luisvargasdev/luisvargasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
